@@ -52,3 +52,4 @@ rsconnect/
 /_site/
 .DS_Store
 /gitignore/
+.DS_Store
